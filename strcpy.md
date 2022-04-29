@@ -2,10 +2,19 @@
 	
 #include<string.h>
 
+	
+	
+	
 using namespace std;
 	
 	
+	
+	
+	
 	int main(){
+	
+	
+	
 	
 	
 	
@@ -28,7 +37,13 @@ using namespace std;
 	
 	
 		cout << " After the copy : '\n";
+		 
+		
+	
 		cout << "string1 : \t" << string1 << '\n';
+		
+	
+	
 		cout << "string2 : \t" << string2 << '\n';
 		
 		
