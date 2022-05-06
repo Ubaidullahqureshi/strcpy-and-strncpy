@@ -1,9 +1,9 @@
-#include<iostream>
+#include<iostream> 							// Header File 
 #include<string.h>
 using namespace std;
 	int main(){
 	
-	char string1 [ 15 ] = "Ubaidullah1";
+	char string1 [ 15 ] = "Ubaidullah1";				//String Initilaization 
 	char string2 [ 15 ] = "Ubaidullah2";
 		
 	cout << " Before the copy : '\n";
