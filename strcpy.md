@@ -16,7 +16,9 @@ using namespace std;
 	// Copy the whole string 
 	strcpy ( string2 , string1 );   											// Copy string 1 into string 2   logic
 		
+	
 	cout << " After the copy : '\n";
+	
 	cout << "string1 : \t" << string1 << '\n';
 	cout << "string2 : \t" << string2 << '\n';
 	
