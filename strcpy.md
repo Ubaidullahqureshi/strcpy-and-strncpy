@@ -20,6 +20,7 @@ using namespace std;
 	cout << " After the copy : '\n";
 	
 	cout << "string1 : \t" << string1 << '\n';
+	
 	cout << "string2 : \t" << string2 << '\n';
 	
 	// Copy three character of the string 1 into string 
