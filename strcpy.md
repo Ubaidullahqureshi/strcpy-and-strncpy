@@ -25,6 +25,7 @@ using namespace std;
 	
 	// Copy three character of the string 1 into string 
 	strncpy ( string2 , string1 , 3 );
+	
 	cout << "Strncpy ( string3 , string1 , 3) = " << string2;
 		
 		
