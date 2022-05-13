@@ -1,4 +1,4 @@
-#include<iostream> 							// Header File 
+#include<iostream> 																	// Header File 
 #include<string.h>
 using namespace std;
 	int main(){
