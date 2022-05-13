@@ -3,7 +3,7 @@
 using namespace std;
 	int main(){
 	
-	char string1 [ 15 ] = 	"Ubaidullah1";													//String Initilaization .
+	char string1 [ 15 ]  = 	"Ubaidullah1";													//String Initilaization .
 	char string2 [ 15 ] = 	"Ubaidullah2";
 		
 	cout << " Before the copy : '\n";
