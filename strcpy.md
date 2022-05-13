@@ -28,8 +28,6 @@ using namespace std;
 	
 	cout << "Strncpy ( string3 , string1 , 3) = " << string2;
 		
-		
-	
 	return 0;
 		  
 	}
