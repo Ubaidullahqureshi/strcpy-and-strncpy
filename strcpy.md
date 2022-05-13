@@ -10,6 +10,7 @@ using namespace std;
 	cout << " Before the copy : '\n";
 	
 	cout << "string1 : \t" << string1 << '\n';
+	
 	cout << "string2 : \t" << string2 << '\n';
 	
 	// Copy the whole string 
